@@ -18,3 +18,23 @@ C:\Users\Dell1\source\repos\SampleAPIHost\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\Dell1\source\repos\SampleAPIHost\obj\Debug\netcoreapp3.1\SampleAPIHost.dll
 C:\Users\Dell1\source\repos\SampleAPIHost\obj\Debug\netcoreapp3.1\SampleAPIHost.pdb
 C:\Users\Dell1\source\repos\SampleAPIHost\obj\Debug\netcoreapp3.1\SampleAPIHost.genruntimeconfig.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\SampleAPIHost.exe
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\SampleAPIHost.deps.json
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\SampleAPIHost.runtimeconfig.json
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\SampleAPIHost.runtimeconfig.dev.json
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\SampleAPIHost.dll
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\bin\Debug\netcoreapp3.1\SampleAPIHost.pdb
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.csprojAssemblyReference.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.AssemblyInfoInputs.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.AssemblyInfo.cs
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.csproj.CoreCompileInputs.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.RazorTargetAssemblyInfo.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\staticwebassets\SampleAPIHost.StaticWebAssets.Manifest.cache
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\staticwebassets\SampleAPIHost.StaticWebAssets.xml
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.dll
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.pdb
+C:\Users\320107932\OneDrive - Philips\Bootcamp\C#\Sample\obj\Debug\netcoreapp3.1\SampleAPIHost.genruntimeconfig.cache

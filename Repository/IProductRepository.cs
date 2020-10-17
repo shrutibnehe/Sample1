@@ -10,5 +10,6 @@ namespace SampleAPIHost.Repository
     {
         public void AddNewProduct(Products newProduct);
         public IEnumerable<Products> GetAllProducts();
+        public List<Products> GetfinalProducts(string r1,string r2,string r3);
     }
 }
